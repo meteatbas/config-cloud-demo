@@ -3,4 +3,3 @@ logging:
     info: INFO
 
 database: app
-database: app
