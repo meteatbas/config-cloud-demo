@@ -1,0 +1,15 @@
+logging:
+  group:
+    tomcat: 
+     - org.apache.catalina
+     - org.apache.coyote
+     - org.apache.tomcat
+  level:
+    root: WARN
+    com:
+      ruminderhub: DEBUG
+    tomcat: INFO
+    
+
+database: app_develop
+selamlar: capturer.template.icinden
