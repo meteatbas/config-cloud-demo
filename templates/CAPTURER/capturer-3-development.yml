@@ -12,4 +12,4 @@ logging:
     
 
 database: app_develop
-selamlar: capturer
+selamlar: capturer.template.icinden
