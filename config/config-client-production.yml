@@ -2,6 +2,6 @@ logging:
   level:
     root: WARN
     com:
-      ruminderhub: INFO(TEST)
+      ruminderhub: INFO
 
 database: app_prod
