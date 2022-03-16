@@ -3,5 +3,6 @@ logging:
     info: INFO
 
 database: app
+password: {cipher}5c77a1d65ae2861a0e747dc9da6f3dd9ddec8e87d613513c01970a8ee4641707
 selam: evet
 selamdegil: hayır
